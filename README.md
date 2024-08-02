@@ -5,6 +5,6 @@ Many Marine scientists procure data from the ocean and study the pattern of glob
 to predict the global temperature of our earth is the main agenda.
 
 
--Found a website that holds the ocean currents data but unable to figure out the format of that data.
+-Found a website that holds the ocean currents data, currently working on retrieving the data and preprocessing it for feature extraction.
   https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:NCEI-GOCD
   
